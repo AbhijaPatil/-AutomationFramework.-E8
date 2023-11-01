@@ -14,6 +14,8 @@ public class AssertionsPractice
 		System.out.println("Step 1");
 		System.out.println("Step 2");
 		sa.assertEquals(false, true); //failed
+		
+		
 		System.out.println("Step 3");
 		System.out.println("Step 4");
 		
